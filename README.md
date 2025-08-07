@@ -13,7 +13,7 @@
 <p align="left">sizin@naver.com
 </p>
 
-<h3 style="font-family:sans-serif;">🧠 Data Science / ML</h3>
+<h3 style="font-family:sans-serif;">🧠 AI / Data Science / ML</h3>
 <div>
   <!-- Data Science / ML -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://perso.univ-lyon1.fr/marc.buffat/COURS/BOOK_OUTILSNUM_HTML/_images/python_pandas.jpg" alt="pandas" width="80" height="80"/><!-- Pandas --> </a>&nbsp&nbsp
