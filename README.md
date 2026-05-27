@@ -94,8 +94,8 @@ I design and build **RAG systems, LLM applications, and end-to-end AI pipelines*
 | Year | Title | Venue |
 |------|-------|-------|
 | 2024 | [Recognition of Fire Situation Using Graph Convolutional Network Model](https://link.springer.com/chapter/10.1007/978-981-97-2447-5_56) | **SCOPUS-indexed International Journal** |
-| 2023 | GCN 모델을 이용한 화재 상황인식 | 한국정보처리학회 학술발표대회 |
-| 2023 | Graph Convolutional Network 모델을 이용한 화재 상황인식 | 석사학위 논문 |
+| 2023 | [GCN 모델을 이용한 화재 상황인식 | 한국정보처리학회 학술발표대회](https://www.koreascience.kr/article/CFKO202333854982763.page?&lang=ko) |
+| 2023 | [Graph Convolutional Network 모델을 이용한 화재 상황인식](https://www.dbpia.co.kr/journal/detail?nodeId=T16848583) | 석사학위 논문 |
 
 ---
 
