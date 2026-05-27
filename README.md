@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-AI Engineer with **4+ years of specialized AI/ML experience** and **18+ years of IT infrastructure background**.  
+AI Engineer with **4+ years of specialized AI/ML experience** and **19+ years of IT infrastructure background**.  
 I design and build **RAG systems, LLM applications, and end-to-end AI pipelines** — from data collection and model training to cloud deployment and monitoring.
 
 - 🏆 **1st place** — Upstage AI OCR Competition (2025.12)
