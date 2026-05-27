@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kim Si Jin (김시진)</h1>
+<h1 align="center">I'm AI Engineer Kim Si Jin.</h1>
+<h1 align="center">저는 AI 엔지니어 김시진입니다.</h1>
+<h1 align="center">I like deep neural nets.</h1>
 <h3 align="center">AI Engineer · LLM/RAG · Government R&D Project Lead · End-to-End ML</h3>
 
 <p align="center">
