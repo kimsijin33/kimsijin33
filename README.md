@@ -1,6 +1,4 @@
-<h1 align="center">저는 AI 엔지니어 김시진입니다.</h1>
-<h3 align="center">I'm AI Engineer Kim Si Jin.</h3>
-<h3 align="center">I like deep neural nets.</h3>
+<h1 align="center">I'm AI Engineer Kim Si Jin.</h1>
 <h3 align="center">AI Engineer · LLM/RAG · Government R&D Project Lead · End-to-End ML</h3>
 
 <p align="center">
@@ -18,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-AI Engineer with **4+ years of specialized AI/ML experience** and **19+ years of IT infrastructure background**.  
+I like deep neural nets. - AI Engineer with **4+ years of specialized AI/ML experience** and **19+ years of IT infrastructure background**.  
 I design and build **RAG systems, LLM applications, and end-to-end AI pipelines** — from data collection and model training to cloud deployment and monitoring.
 
 - 🏆 **1st place** — Upstage AI OCR Competition (2025.12)
