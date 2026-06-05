@@ -74,7 +74,7 @@ I design and build **RAG systems, LLM applications, and end-to-end AI pipelines*
 - 긴급신고 텍스트에서 긴급성(Code 0~4)·사건유형 추론 NLP 모델 및 API 개발
 - AI Project Lead · 데이터 과학자 3명, AI 개발자 2명 팀 리드
 
-### 📊 신호 처리 DSP 데스크탑 앱 개발 — ETRI (2022–2024)
+### 📊 신호 처리 DSP 데스크톱 소프트웨어 개발 — ETRI (2022–2024)
 - 한국전자통신연구원 MATLAB으로 제작된 신호처리 애플리케이션을 윈도우 데스크톱 애플리케이션으로 개발하기 위해 C++ 소프트웨어로 변환함
 - AI Project Lead · 데이터 과학자 1명, AI 개발자 3명 팀 리드
 
