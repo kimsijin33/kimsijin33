@@ -70,13 +70,21 @@ I design and build **RAG systems, LLM applications, and end-to-end AI pipelines*
 - 3,600+ 이미지 대상 강건한(Robust) 검출 파이프라인 완성
 - Data augmentation + hyperparameter tuning으로 일반화 성능 극대화
 
-### 🌐 Global B2B Matching AI Platform — ETRI R&D (2023)
+### 🚨 112/119 Emergency Urgency Inference — ETRI (2020–2024)
+- 긴급신고 텍스트에서 긴급성(Code 0~4)·사건유형 추론 NLP 모델 및 API 개발
+- AI Project Lead · 데이터 과학자 3명, AI 개발자 2명 팀 리드
+
+### 📊 신호 처리 DSP 데스크탑 앱 개발 — ETRI (2022–2024)
+- 한국전자통신연구원 MATLAB으로 제작된 신호처리 애플리케이션을 윈도우 데스크톱 애플리케이션으로 개발하기 위해 C++ 소프트웨어로 변환함
+- AI Project Lead · 데이터 과학자 1명, AI 개발자 3명 팀 리드
+
+### 🌐 Global B2B Matching AI Platform — IITP 정보통신기획평가원 R&D (2023)
 - 400GB 러시아 특허 데이터 ETL 파이프라인 설계 → 30,000건 고순도 JSON 확보
 - **Multilingual BERT** 기반 기업매칭 분류 모델 개발 · **90% classification accuracy**
 - 3단계 크로스 매핑 테이블(IPC ↔ KSIC) 고안, VPN 기반 크롤링 엔진으로 100,000건 러시아 기업 DB 확보
 
-### 🚨 112/119 Emergency Urgency Inference — ETRI (2020–2024)
-- 긴급신고 텍스트에서 긴급성(Code 0~4)·사건유형 추론 NLP 모델 및 API 개발
+### 🔍 미아찾기 프로젝트 YOLO — ETRI (2020–2021)
+- 한국전자통신연구원 YOLO 모델을 이용한 CCTV 동영상 미아찾기 프로젝트
 - AI Project Lead · 데이터 과학자 3명, AI 개발자 2명 팀 리드
 
 ### 🤖 RAG Chatbot — LangChain + Upstage Solar LLM (2025)
