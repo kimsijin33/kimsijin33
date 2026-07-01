@@ -31,6 +31,7 @@ I design and build **RAG systems, LLM applications, and end-to-end AI pipelines*
 
 **LLM · RAG**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-0064FF?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat)
