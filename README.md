@@ -63,39 +63,39 @@ I design and build **RAG systems, LLM applications, and end-to-end AI pipelines*
 ## 🚀 Featured Projects
 
 ### 🔬 GCN-Based Fire Situation Recognition (SCOPUS, 2024)
-- Graph Convolutional Network 기반 화재 상황인식 모델 연구 개발
-- **95% prediction accuracy** achieved · SCOPUS 국제저널 등재
-- AI Project Lead · 데이터 수집/전처리/라벨링/모델 학습 전 과정 수행
+- Researched and developed a fire-situation recognition model based on a Graph Convolutional Network (GCN)
+- **95% prediction accuracy** achieved · Published in a SCOPUS-indexed international journal
+- AI Project Lead · Owned the full pipeline: data collection, preprocessing, labeling, and model training
 
 ### 🏆 Upstage AI OCR Competition — 1st Place (2025.12)
-- 영수증 글자 검출(Text Detection) 모델 설계 및 Polygon 좌표 검출 최적화
-- 3,600+ 이미지 대상 강건한(Robust) 검출 파이프라인 완성
-- Data augmentation + hyperparameter tuning으로 일반화 성능 극대화
+- Designed a receipt text-detection model and optimized polygon-coordinate detection
+- Built a robust detection pipeline across 3,600+ images
+- Maximized generalization performance through data augmentation and hyperparameter tuning
 
 ### 🚨 112/119 Emergency Urgency Inference — ETRI (2020–2024)
-- 긴급신고 텍스트에서 긴급성(Code 0~4)·사건유형 추론 NLP 모델 및 API 개발
-- AI Project Lead · 데이터 과학자 3명, AI 개발자 2명 팀 리드
+- Developed an NLP model and API to infer urgency level (Code 0–4) and incident type from emergency-call text
+- AI Project Lead · Led a team of 3 data scientists and 2 AI developers
 
-### 📊 신호 처리 DSP 데스크톱 소프트웨어 개발 — ETRI (2022–2024)
-- 한국전자통신연구원 MATLAB으로 제작된 신호처리 애플리케이션을 윈도우 데스크톱 애플리케이션으로 개발하기 위해 C++ 소프트웨어로 변환함
-- AI Project Lead · 데이터 과학자 1명, AI 개발자 3명 팀 리드
+### 📊 Digital Signal Processing (DSP) Desktop Software — ETRI (2022–2024)
+- Converted a MATLAB-based signal-processing application developed at ETRI (Electronics and Telecommunications Research Institute) into C++ software for a Windows desktop application
+- AI Project Lead · Led a team of 1 data scientist and 3 AI developers
 
-### 🌐 Global B2B Matching AI Platform — IITP 정보통신기획평가원 R&D (2023)
-- 400GB 러시아 특허 데이터 ETL 파이프라인 설계 → 30,000건 고순도 JSON 확보
-- **Multilingual BERT** 기반 기업매칭 분류 모델 개발 · **90% classification accuracy**
-- 3단계 크로스 매핑 테이블(IPC ↔ KSIC) 고안, VPN 기반 크롤링 엔진으로 100,000건 러시아 기업 DB 확보
+### 🌐 Global B2B Matching AI Platform — IITP R&D (2023)
+- Designed an ETL pipeline for 400GB of Russian patent data → produced 30,000 high-quality JSON records
+- Developed a Multilingual BERT-based enterprise-matching classification model · **90% classification accuracy**
+- Devised a three-stage cross-mapping table (IPC ↔ KSIC) and built a VPN-based crawling engine to collect a database of 100,000 Russian companies
 
-### 🔍 미아찾기 프로젝트 YOLO — ETRI (2020–2021)
-- 한국전자통신연구원 YOLO 모델을 이용한 CCTV 동영상 미아찾기 프로젝트
-- AI Project Lead · 데이터 과학자 3명, AI 개발자 2명 팀 리드
+### 🔍 Missing Child Detection Project (YOLO) — ETRI (2020–2021)
+- CCTV video-based missing-child detection project using a YOLO model, conducted at ETRI (Electronics and Telecommunications Research Institute)
+- AI Project Lead · Led a team of 3 data scientists and 2 AI developers
 
 ### 🤖 RAG Chatbot — LangChain + Upstage Solar LLM (2025)
-- End-to-end RAG 서비스: 직접 스크래핑한 LangChain 기술문서 → ChromaDB/FAISS 벡터 DB 구축
-- **Top-k 검색 정확도 30% 개선** · Docker Compose CI/CD · 스트리밍 UI 구현
+- Built an end-to-end RAG service: constructed a ChromaDB/FAISS vector database from self-scraped LangChain technical documentation
+- **Improved Top-k retrieval accuracy by 30%** · Docker Compose CI/CD · Implemented a streaming UI
 
 ### 📊 Apartment Price Prediction — Seoul (2025)
-- 국토교통부 매매 데이터 + 지하철/버스 입지 데이터 결합, Feature Engineering
-- XGBoost/LightGBM 앙상블 모델 · **RMSE 기준 베이스라인 대비 35% 오차 감소**
+- Combined Ministry of Land, Infrastructure and Transport transaction data with subway/bus accessibility data through feature engineering
+- Built an XGBoost/LightGBM ensemble model · **Reduced RMSE by 35% versus the baseline**
 
 ---
 
@@ -104,8 +104,8 @@ I design and build **RAG systems, LLM applications, and end-to-end AI pipelines*
 | Year | Title | Venue |
 |------|-------|-------|
 | 2024 | [Recognition of Fire Situation Using Graph Convolutional Network Model](https://link.springer.com/chapter/10.1007/978-981-97-2447-5_56) | **SCOPUS-indexed International Journal** |
-| 2023 | [GCN 모델을 이용한 화재 상황인식](https://www.koreascience.kr/article/CFKO202333854982763.page?&lang=ko) | 한국정보처리학회 학술발표대회 |
-| 2023 | [Graph Convolutional Network 모델을 이용한 화재 상황인식](https://www.dbpia.co.kr/journal/detail?nodeId=T16848583) | 석사학위 논문 |
+| 2023 | [Fire Situation Recognition Using a GCN Model](https://www.koreascience.kr/article/CFKO202333854982763.page?&lang=ko) | Korea Information Processing Society Conference |
+| 2023 | [Fire Situation Recognition Using a Graph Convolutional Network Model](https://www.dbpia.co.kr/journal/detail?nodeId=T16848583) | Master's Thesis |
 
 ---
 
@@ -114,8 +114,8 @@ I design and build **RAG systems, LLM applications, and end-to-end AI pipelines*
 | | |
 |---|---|
 | 🥇 Upstage AI OCR Competition **1st Place** | 2025.12 |
-| 📜 정보처리기사 | 2012 |
-| 🌐 CCNA (만점 1000/1000) | 2006 |
+| 📜 Engineer Information Processing | 2012 |
+| 🌐 CCNA (Score: 1000/1000) | 2006 |
 | 🐧 LPIC-1 | 2013 |
 
 ---
